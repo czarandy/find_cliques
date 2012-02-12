@@ -1,0 +1,3 @@
+*.o
+find_cliques_example
+find_cliques_large_matrix
