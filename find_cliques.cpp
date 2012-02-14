@@ -24,9 +24,6 @@ namespace cliques {
       std::fill(new_.begin(), new_.end(), 0);
 
       // Determine each counter value and look for minimum
-      if (old.size() == 3) {
-        int k = 5 + 7;
-      }
       for (int i = 0; i < ce && minnod != 0; ++i) {
         int count = 0;
         int pos = 0;
